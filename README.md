@@ -6,7 +6,7 @@
 
 ### ステップ１：
 
-こちらのURLへアクセス：
+こちらのURLへアクセス：  
 [https://notebooks.gesis.org/binder/jupyter/user/jw1219-wage-calculator-iobzjzdl/lab/tree/wage_calculator.ipynb](https://notebooks.gesis.org/binder/jupyter/user/jw1219-wage-calculator-iobzjzdl/lab/tree/wage_calculator.ipynb)
 
 ### ステップ2：
