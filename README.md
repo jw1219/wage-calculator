@@ -19,5 +19,6 @@
 <br>
 
 アプリ：  
-<img width="835" alt="スクリーンショット 2023-07-08 21 10 46" src="https://github.com/jw1219/wage-calculator/assets/121003840/5ace6441-1522-46db-8be7-ba76c678356f">
+<img width="870" alt="スクリーンショット 2023-07-09 8 10 10" src="https://github.com/jw1219/wage-calculator/assets/121003840/85c1af29-c891-491e-aa3e-9370b20ff93d">
+
 
